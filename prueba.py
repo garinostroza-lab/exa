@@ -1,5 +1,5 @@
 #prueba
-print("Hola, este es un mensaje de prueba final")git push -u origin main
+print("Hola, este es un mensaje de prueba final")
 #
 #
 #
